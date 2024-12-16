@@ -1,3 +1,5 @@
+package basic.dz.domzad2;
+
 public class zad2 {
     public static void main(String[] args) {
         double a = 5, b = 3, c = 9;

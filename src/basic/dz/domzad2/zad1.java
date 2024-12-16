@@ -1,3 +1,5 @@
+package basic.dz.domzad2;
+
 public class zad1 {
     public static void main(String[] args) {
         double[] radii = {1, 0.5, 0.2};
